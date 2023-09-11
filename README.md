@@ -1,6 +1,6 @@
 # Telecom Churn EDA
 
-**AlmaBetter Verified Project** - [**Credentials**](http://127.0.0.1:5000/en/verify/38501784328685?ref=email)
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/38501784328685)
 
 ## Problem Statement
 
